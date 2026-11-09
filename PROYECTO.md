@@ -5,3 +5,4 @@ Nombre del proyecto: Proyecto Huevo
 ## Miembros
 - Jesús
 - Álvaro
+- JuanCarlos
