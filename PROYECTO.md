@@ -1,3 +1,8 @@
-Nombre del proyecto: trabajo en equipo
+# Proyecto del equipo
 
-- Juan Carlos
+Nombre del proyecto: Proyecto Huevo
+
+## Miembros
+
+Jesus Marquez Martin
+Juan Carlos
