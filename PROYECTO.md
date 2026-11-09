@@ -1,6 +1,7 @@
 # Proyecto del equipo
 
-Nombre del proyecto: Gestor de tareas
+Nombre del proyecto: Proyecto Huevo
 
 ## Miembros
+- Jesús
 - Álvaro
